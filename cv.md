@@ -44,7 +44,7 @@ function isIsogram(str) {
     }
   };
 
-   let x = arr.join('');
+    let x = arr.join('');
 
     if(str.length === x.length || x == "") {
         return true;
@@ -52,6 +52,7 @@ function isIsogram(str) {
         return false;
   }
 };
+
 ```
 
 ## EDUCATION
@@ -75,7 +76,7 @@ function isIsogram(str) {
 ---
 
 - **Freelance**
-  Front-end developer
+  Junior Front-end developer
 
   In that position, I created landing pages
   My responsibilities were:
