@@ -53,3 +53,42 @@ function isIsogram(str) {
   }
 };
 ```
+
+## EDUCATION
+
+---
+
+- **Specialist, Medical care**
+  Bogomolets National Medical University
+  2012 - 2019
+
+- **Internship training, Urology**
+  Bogomolets National Medical University
+  2019 - 2021
+
+- **Main Academy**
+  Front-End Developer
+  2021 -2022
+
+## Experience
+
+---
+
+- **Freelance**
+  Front-end developer
+
+  In that position, I created landing pages
+  My responsibilities were:
+  creating frontend using HTML, SCSS, JavaScript
+
+## Languages
+
+---
+
+- Ukrainian
+- Russian
+- English
+
+## English
+
+- **British Council EnglishScore**: A2
